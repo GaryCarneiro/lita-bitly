@@ -8,6 +8,7 @@ Add lita-bitly to your Lita instance's Gemfile:
 
 ``` ruby
 gem "lita-bitly"
+gem "url_shortener"
 ```
 
 

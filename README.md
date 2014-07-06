@@ -2,7 +2,7 @@
 
 This plugin is used for url shortening using Bitly
 It needs username (not email address) and the API Key from Bitly for the user
-Both configuration are found [here](https://bitly.com/a/settings/advanced)
+Both configuration are found at  https://bitly.com/a/settings/advanced
 
 ## Installation
 

@@ -15,17 +15,20 @@ gem "url_shortener"
 
 
 ## Configuration
-config.handlers.bitly.username = "bitlyusername"
-config.handlers.bitly.apikey = "bitlyapikey"
+* config.handlers.bitly.username = "bitlyusername"
+* config.handlers.bitly.apikey = "bitlyapikey"
 
 
 ## Usage
 
 @lita bitly www.yahoo.com
+
 lita: bitly https;//plus.google.com
 
 shorten is alias for bitly
+
 @lita shorten mail.yahoo.com
+
 lita: shorten http://vim-adventures.com/
 
 

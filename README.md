@@ -21,15 +21,15 @@ gem "url_shortener"
 
 ## Usage
 
-@lita bitly www.yahoo.com
+* @lita bitly www.yahoo.com
 
-lita: bitly https;//plus.google.com
+* lita: bitly https://plus.google.com
 
-shorten is alias for bitly
+**shorten** is alias for bitly
 
-@lita shorten mail.yahoo.com
+* @lita shorten mail.yahoo.com
 
-lita: shorten http://vim-adventures.com/
+* lita: shorten http://vim-adventures.com/
 
 
 ## License
